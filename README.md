@@ -13,3 +13,7 @@ client
 ```shell
 cargo run --bin helloworld-client
 ```
+
+# iOS Client
+
+https://github.com/takagisou/grpc-swift-sample
