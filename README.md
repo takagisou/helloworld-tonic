@@ -17,3 +17,8 @@ cargo run --bin helloworld-client
 # iOS Client
 
 https://github.com/takagisou/grpc-swift-sample
+
+
+# Android Client
+
+https://github.com/takagisou/grpc-kotlin-android
